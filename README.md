@@ -25,7 +25,7 @@ After confirming the disease, the system provides a tailored prescription, lifes
 
 ## Portfolio
 
-### Hello, Praveen Palkar 👋
+### Hello, Ishan Jaiswal 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -43,7 +43,7 @@ You can view the complete code for the project here :
 - Data Structures and Algorithms
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/PraveenPalkar18)
+- [GitHub](https://github.com/Ishan123-Jaiswal)
 
 
 ## Portfolio Topic
@@ -54,14 +54,14 @@ You can view the complete code for the project here :
 <dt>Course Code</dt>
 <dd>24ECSP205</dd>
 <dt>Name</dt>
-<dd>Praveen Bahublai Palkar</dd>
+<dd>Ishan Jaiswal</dd>
 <dt>SRN</dt>
-<dd>02FE23BCS053</dd>
+<dd>02FE23BCS022</dd>
 <dt>Course Instructor</dt>
 <dd>Prof.Vaishali Parab</dd>
 <dt>University</dt>
 <dd>KLE Technological University</dd>
-<dt>Patient Symptom Analysis and Self Diagnosis/COMPUTER SCIENCE</dt>
+<dt>Tourism/COMPUTER SCIENCE</dt>
 </dl>
 
 <br> 
