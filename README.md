@@ -35,7 +35,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
  ##view code
  
 You can view the complete code for the project here :
-[View my code](Project1.cpp)
+[View my code](project1.cpp)
 
 
 ## 🚀 Skills
