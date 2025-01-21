@@ -1,6 +1,6 @@
 # Welcome to My Project
 
-![Patient Symptom Analysis and Self diagnosis ](Healthcare.png)
+![Tourism ](tourism.png)
 
 
 ## Patient Symptom Analysis and Self diagnosis Project 
