@@ -3,67 +3,8 @@
 ![Tourism ](travel.jpg)
 
 
-## Patient Symptom Analysis and Self diagnosis Project 
- Project: Patient Symptom Analysis and Self Diagnosis 
+## The "Urban Transformation"
+ Project: The "Urban Transformation"
 
 
-1st Module: Ambiguous Symptom Entry
-Patients describe their symptoms using natural language, where the system processes partial or unclear inputs to identify possible symptoms using advanced matching algorithms (e.g., levenstindistance  or KMP).
-
-2nd Module: Limited Medical Awareness
-Based on the identified symptoms, the system asks targeted yes/no questions to narrow down possibilities and predict the most likely disease using decision analysis techniques.(Desicion tree)
-
-3rd Module: Shortest Path to Medical Facility
-Once a disease is identified, the system calculates the shortest path to the nearest medical facility using graph-based algorithms like Dijkstra's for quick access to care.(Steps of Dijkstra’s Algorithm)
-
-4th Module: Prescription and Precaution
-After confirming the disease, the system provides a tailored prescription, lifestyle precautions, and advice, ensuring the patient takes immediate steps for recovery.(Brute force string matching )
-
-
-     
-#.github.io  
-
-## Portfolio
-
-### Hello, Ishan Jaiswal 👋
-
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
-
-## 🛠 Projects
-- Project 1: The Patient Symptom Analysis and Self Diagnosis system is a comprehensive tool designed to enhance the healthcare experience for individuals. It intelligently processes vague or unclear symptom inputs, narrows down diagnoses through targeted questions, ensures quick access to medical facilities, and provides personalized treatment recommendations. With these four integrated modules, the system aims to provide timely and accurate healthcare guidance, empowering patients to make informed decisions while seeking medical attention.
-
- ##view code
- 
-You can view the complete code for the project here :
-[View my code](project1.cpp)
-
-
-## 🚀 Skills
-- C++, Python, C
-- Data Structures and Algorithms
-
-## 🌐 Find Me Online
-- [GitHub](https://github.com/Ishan123-Jaiswal)
-
-
-## Portfolio Topic
-
-<dl>
-<dt>Course Name</dt>
-<dd>Algorithmic Lab</dd>
-<dt>Course Code</dt>
-<dd>24ECSP205</dd>
-<dt>Name</dt>
-<dd>Ishan Jaiswal</dd>
-<dt>SRN</dt>
-<dd>02FE23BCS022</dd>
-<dt>Course Instructor</dt>
-<dd>Prof.Vaishali Parab</dd>
-<dt>University</dt>
-<dd>KLE Technological University</dd>
-<dt>Tourism/COMPUTER SCIENCE</dt>
-</dl>
-
-<br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
->
+The "Urban Transformation" project addresses critical challenges faced by modern, developing cities through innovative, technology-driven solutions. It is divided into four modules, each targeting a specific urban problem. The first module, the Railway and Traffic Management System, focuses on optimizing urban mobility by reducing traffic congestion, enhancing railway operations, and ensuring safety. Algorithms like Dijkstra’s are employed to calculate the shortest paths for vehicles and trains, while priority queues are used to manage real-time traffic flow and prioritize schedules. Arrays store static data such as road conditions, ensuring efficient data handling. This results in reduced travel times, improved commuter experiences, and enhanced traffic safety. The second module, the Hill Station Management System, tackles issues like over-tourism, resource scarcity, and environmental degradation. By using queues to manage tourist inflow and implementing sustainability-focused algorithms, the system ensures balanced resource allocation and crowd control. Real-time monitoring through IoT devices and data-driven resource management further mitigate the environmental impact, promoting sustainable tourism and preserving the ecological balance of hill stations. The third module, Smart City Management Control, aims to create a centralized system for managing city utilities and resources. Challenges like waste management, energy efficiency, and urban planning are addressed through centralized monitoring and smart algorithms. Arrays store sensor data related to electricity and water usage, while priority queues allocate resources to areas with higher demand. Dijkstra’s algorithm is utilized to design optimal waste collection routes, leading to cleaner cities, reduced energy consumption, and data-driven urban planning. The final module, Slum Management, focuses on improving living conditions in slum areas by addressing infrastructure gaps, resource inequality, and health risks. Arrays store demographic data to understand population needs, while priority queues are used to ensure equitable distribution of resources like food and water. Dijkstra’s algorithm aids in planning optimal layouts for roads and sanitation networks, fostering better access to essential services and improving overall living standards in slums. By leveraging advanced data structures such as arrays, queues, and priority queues, and algorithms like Dijkstra’s, the project provides scalable and efficient solutions to urban challenges. This comprehensive approach ensures sustainability, equity, and improved quality of life, serving as a model for modern cities striving for holistic development.
